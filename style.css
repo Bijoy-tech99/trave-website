@@ -1,0 +1,39 @@
+body{
+    margin: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header{
+    padding: 40px;
+    text-align: center;
+    background-color:aqua
+}
+header h1{
+    font-size: 40px;
+    color: brown;
+}
+nav{
+    background-color: black;
+    overflow: hidden;
+}
+nav a {
+    text-decoration: none;
+    padding: 30px;
+    text-align: center;
+    float: left;
+    color: white;
+}
+div{
+    text-align:left;
+    background-color:rgb(203, 187, 94);
+    padding-top: 50px;
+    padding-bottom:50px ;
+
+}
+main{
+    text-align:center;
+
+
+}
+header h1 {
+
+}
